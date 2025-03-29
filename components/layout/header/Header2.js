@@ -54,7 +54,7 @@ export default function Header2({
 
         {/* Header Upper */}
         <div className="header-lower">
-          <div className="outer-container fixed-top d-md-static ">
+          <div className="outer-container fixed-top d-md-static px-0">
             <div className="outer-box px-2">
               <div className="logo-box">
                 <figure className="logo">
