@@ -28,18 +28,18 @@ export default function Menu() {
           <Link href="/">Services</Link>
           <ul>
             <li>
-              <Link href="/service">Our Services</Link>
+              <Link href="/">Business setup</Link>
             </li>
             <li>
-              <Link href="/service-details">Cardiology</Link>
+              <Link href="/">Golden Visa Support</Link>
             </li>
             <li>
-              <Link href="/service-details-2">Dental Clinic</Link>
+              <Link href="/">Dubai Attestation</Link>
             </li>
             <li>
-              <Link href="/service-details-3">Neurosurgery</Link>
+              <Link href="/">Global Reach</Link>
             </li>
-            <li>
+            {/* <li>
               <Link href="/service-details-4">Medical</Link>
             </li>
             <li>
@@ -47,7 +47,7 @@ export default function Menu() {
             </li>
             <li>
               <Link href="/service-details-6">Modern Laboratory</Link>
-            </li>
+            </li> */}
             {/* ... (similarly for other service items) */}
           </ul>
         </li>
